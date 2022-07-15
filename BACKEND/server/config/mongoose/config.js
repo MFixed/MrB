@@ -1,0 +1,1 @@
+module.exports.key = 'mongodb+srv://eemmee:tuvieja2020@cluster0.nwto2.mongodb.net/companyname?retryWrites=true&w=majority'
