@@ -23,7 +23,7 @@ app.use(cors());
 
 // Router
 //app.use("/api",require(''));
-var path = require('path');
+
 app.use('/public', express.static(__dirname + '/public'));
 
 
